@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gr8Samuel
 - 👀 I’m interested in everything computer programming
-- 🌱 I’m currently on the path to be an expert software engineer
+- 🌱 I’m currently working on my coding skills
 - 💞️ I’m looking to collaborate on any project that can boost my knowledge on my current path
 - 📫 How to reach me @Gr8Samuel
 
